@@ -362,7 +362,7 @@ p{
 
 /*********************************************************************************/
 /* Icons                                                                         */
-/* Powered by Font Awesome by Dave Gandy | http://fontawesome.io                 */
+/* Powered by Font Awesome by Dave Gandy | https://fontawesome.io                 */
 /* Licensed under the SIL OFL 1.1 (font), MIT (CSS)                              */
 /*********************************************************************************/
 
@@ -1276,7 +1276,7 @@ ul.list-iess2  li{
 
 }
 img {
-	vertical-align: middle
+	vertical-align: middle;
 }
 .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
 	display: block;
